@@ -14,7 +14,7 @@ Bia e Marina são duas amigas que resolveram se juntar para estudar em conjunto 
     - Python for Data Science: Fundamentals
     - Python for Data Science: Intermediate
  
-###  **Step 2: Intermediate Python and Pandas**
+###  **[Step 2: Intermediate Python and Pandas](https://github.com/beatrizmaiads/data-analyst-path/tree/main/step2)**
     - Pandas and NumPy Fundamentals
     - Data Visualization Fundamentals
     - Storytelling Data Visualization and Information Design
@@ -22,24 +22,24 @@ Bia e Marina são duas amigas que resolveram se juntar para estudar em conjunto 
     - Data Cleaning in Python: Advanced
     - Data Cleaning Project Walkthrough
 
-### **Step 3: The Command Line**
+### **[Step 3: The Command Line](https://github.com/beatrizmaiads/data-analyst-path/tree/main/step3)**
     - Elements of the Command Line
     - Text Processing in the Command Line
 
-###  **Step 4: Working with Data Sources**
+###  **[Step 4: Working with Data Sources](https://github.com/beatrizmaiads/data-analyst-path/tree/main/step4)**
     - SQL Fundamentals
     - APIs and Web Scraping in Python
     - Intermediate SQL for Data Analysis
     - Data Analysis in Business
 
-###  **Step 5: Probability and Statistics**
+###  **[Step 5: Probability and Statistics](https://github.com/beatrizmaiads/data-analyst-path/tree/main/step5)**
     - Statistics Fundamentals
     - Statistics Intermediate: Averages and Variability
     - Probability: Fundamentals
     - Conditional Probability
     - Hypothesis Testing: Fundamentals
 
-###  **Step 6: Advanced Topics in Data Analysis**
+###  **[Step 6: Advanced Topics in Data Analysis](https://github.com/beatrizmaiads/data-analyst-path/tree/main/step6)**
     - Command Line: Intermediate
     - Git and Version Control
 
