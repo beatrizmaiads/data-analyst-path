@@ -1,5 +1,7 @@
 # **Data Analyst in Python - Dataquest**
 
+![Image](image.png)
+
 Esse repositório é destinado à documentar a trilha de estudos de [Beatriz Maia](https://github.com/beatrizmaiads) e [Marina Borges](https://github.com/inaborges) pelos cursos da plataforma do [Dataquest](https://dataquest.io/).  
 
 Bia e Marina são duas amigas que resolveram se juntar para estudar em conjunto e tornar tudo o que envolve o aprendizado ainda mais divertido. Além de claro, aproveitar e exercitar as habilidades de se trabalhar em equipe.
