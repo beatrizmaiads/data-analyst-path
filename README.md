@@ -10,7 +10,7 @@ Bia e Marina são duas amigas que resolveram se juntar para estudar em conjunto 
 
 ## **O Path de Data Analyst do Dataquest inclui os seguintes cursos:**
 
-### **Step 1: Introduction to Python**
+### **[Step 1: Introduction to Python](https://github.com/beatrizmaiads/data-analyst-path/tree/main/step1)**
     - Python for Data Science: Fundamentals
     - Python for Data Science: Intermediate
  
