@@ -3,7 +3,8 @@
     - Git and Version Control
 ----------------------------------------------------------
 
-### **Git and Version Control**
+### **Git and Version Control** ![image](https://user-images.githubusercontent.com/65978629/114477065-f07b1380-9bd1-11eb-99cc-305b335e79b0.png)
+
 
 * Understand how version control helps you organize your code
 * Learn how to use git and Github to collaborate with others
